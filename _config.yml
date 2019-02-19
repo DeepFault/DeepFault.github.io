@@ -1,14 +1,22 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        DeepFault
+tagline:      Fault Localization For Deep Neural Networks
 baseurl:      ""
 paginate:     1
 locale:       "en"
 
 # About/contact
-author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+author1:
+  name:       H. Ferit Eniser
+  url:        https://hasanferit.github.com 
+
+author2:
+  name:       Simos Gerasimou
+  url:        https://hasanferit.github.com 
+
+author3:
+  name:       Alper Sen
+  url:        https://hasanferit.github.com 
 
 # Gems
 gems:
